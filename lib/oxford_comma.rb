@@ -13,5 +13,6 @@ def oxford_comma(array)
  else array.size >= 3
   array.pop(-1)
   
+  
  end
 end
